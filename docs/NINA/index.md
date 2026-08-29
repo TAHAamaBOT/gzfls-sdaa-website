@@ -8,7 +8,7 @@ keywords: [NINA, Nighttime Imaging 'N' Astronomy, 天文摄影, 自动化拍摄,
 ![N.I.N.A. Logo](./images/nina-logo.png)
 
 :::info[译者声明]
-本文档由**译星者天文协会**从 [N.I.N.A. 官方文档](https://nighttime-imaging.eu/docs) 翻译为中文。翻译工作由社团成员自愿完成，旨在降低国内天文爱好者使用 N.I.N.A. 的门槛。如发现翻译错误或有改进建议，欢迎[参与贡献](https://github.com/TAHAamaBOT/gzfls-observatory-manual)。
+本文档由**译星者天文协会**从 [N.I.N.A. 官方文档](https://nighttime-imaging.eu/docs) 翻译为中文。翻译工作由社团成员自愿完成，旨在降低国内天文爱好者使用 N.I.N.A. 的门槛。如发现翻译错误或有改进建议，欢迎[参与贡献](https://github.com/TAHAamaBOT/gzfls-sdaa-website)。
 :::
 
 ## 关于 N.I.N.A.

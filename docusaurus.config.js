@@ -30,7 +30,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'TAHAamaBOT', // Usually your GitHub org/user name.
-  projectName: 'gzfls-observatory-manual', // Usually your repo name.
+  projectName: 'gzfls-sdaa-website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -64,7 +64,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TAHAamaBOT/gzfls-observatory-manual/edit/master/',
+            'https://github.com/TAHAamaBOT/gzfls-sdaa-website/edit/master/',
         },
         blog: {
           showReadingTime: true,
@@ -75,7 +75,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TAHAamaBOT/gzfls-observatory-manual/edit/master/',
+            'https://github.com/TAHAamaBOT/gzfls-sdaa-website/edit/master/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -119,7 +119,7 @@ const config = {
           {to: '/about', label: '关于我们', position: 'left'},
 //          {to: '/blog', label: '观测记录', position: 'left'},
           {
-            href: 'https://github.com/TAHAamaBOT/gzfls-observatory-manual',
+            href: 'https://github.com/TAHAamaBOT/gzfls-sdaa-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/TAHAamaBOT/gzfls-observatory-manual',
+                href: 'https://github.com/TAHAamaBOT/gzfls-sdaa-website',
               },
             ],
           },
