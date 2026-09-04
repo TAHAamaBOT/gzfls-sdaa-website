@@ -71,8 +71,8 @@ function HomeIntro() {
       <Heading as="h2">关于我们</Heading>
       <p>
         广州外国语学校译星者天文协会（Stellar Decoder）致力于在校园内推广天文科普，
-        定期组织天台观星活动，带领社员探索宇宙的奥秘。我们秉持学术严谨与人文关怀并重的理念，
-        打造独具特色的广外天文品牌社团。
+        定期组织观测活动，带领社员探索宇宙的奥秘。我们秉持学术严谨与人文关怀并重的理念，
+        打造独具特色的广外天文协会品牌。
       </p>
       <div className="intro-highlights">
         <span className="intro-highlight">
@@ -107,7 +107,7 @@ export default function Home() {
   return (
     <Layout
       title={`欢迎来到${siteConfig.title}`}
-      description="广州外国语学校译星者天文协会。我们在校内开展天文科普和天台观星，打造学术规范严谨而富有人文关怀的广外品牌社团。">
+      description="广州外国语学校译星者天文协会。我们在校内开展天文科普和观测活动，打造学术规范严谨而富有人文关怀的广外品牌协会。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
