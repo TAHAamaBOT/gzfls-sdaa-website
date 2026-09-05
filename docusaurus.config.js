@@ -107,7 +107,7 @@ const config = {
         title: '译星者天文协会',
         logo: {
           alt: 'Stellar Decoder Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -191,7 +191,7 @@ const config = {
         name: '译星者天文协会',
         alternateName: 'Stellar Decoder',
         url: 'https://sdaa.novas.top/',
-        logo: 'https://sdaa.novas.top/img/logo.jpg',
+        logo: 'https://sdaa.novas.top/img/logo.png',
         description: '广州外国语学校译星者天文协会（Stellar Decoder）致力于在校园内推广天文科普，定期组织天台观星活动，带领社员探索宇宙的奥秘。',
         foundingDate: '2025',
         parentOrganization: {
