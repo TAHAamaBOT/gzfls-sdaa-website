@@ -96,8 +96,8 @@
 
 /* ===== 导航栏 ===== */
 .navbar {
-  backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
   background-color: rgba(255, 255, 255, 0.78);
   border-bottom: 2px solid;
   border-image: linear-gradient(
@@ -500,8 +500,8 @@ article a:not([class]):hover {
   }
 
   .navbar {
-    backdrop-filter: none;
     -webkit-backdrop-filter: none;
+    backdrop-filter: none;
     /* 移动端 blur 已禁用，半透明导航栏会让未模糊的 hero 星空直接穿透，
        改为完全不透明以避免视觉异常 */
     background-color: rgba(255, 255, 255, 1);
