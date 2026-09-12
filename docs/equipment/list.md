@@ -212,7 +212,7 @@ keywords: [天文设备, 望远镜, RC14, 赤道仪, 冷冻相机, 天文台, �
 
 ### 🧰Celestron INSPIRE天启CG3 Pro 80900
 
-**存量：4 台**
+**存量：5 台**
 
 ![CG3_Pro_80900](./images/CG3_Pro_80900.jpg)
 
@@ -429,7 +429,7 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 ### Celestron CG3 Pro 德式赤道仪
 
-**存量：4 台**
+**存量：5 台**
 
 ![CG3_Pro_Mount](./images/CG3_Pro_Mount.jpg)
 
