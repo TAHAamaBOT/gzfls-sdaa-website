@@ -22,7 +22,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://sdaa.novas.top',
+  url: 'https://sdaa.top',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -190,8 +190,8 @@ const config = {
         '@type': 'Organization',
         name: '译星者天文协会',
         alternateName: 'Stellar Decoder',
-        url: 'https://sdaa.novas.top/',
-        logo: 'https://sdaa.novas.top/img/logo.png',
+        url: 'https://sdaa.top/',
+        logo: 'https://sdaa.top/img/logo.png',
         description: '广州外国语学校译星者天文协会（Stellar Decoder）致力于在校园内推广天文科普，定期组织天台观星活动，带领社员探索宇宙的奥秘。',
         foundingDate: '2025',
         parentOrganization: {
@@ -210,7 +210,7 @@ const config = {
       innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'WebSite',
-        url: 'https://sdaa.novas.top/',
+        url: 'https://sdaa.top/',
       }),
     },
   ],
