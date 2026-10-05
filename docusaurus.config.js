@@ -116,6 +116,12 @@ const config = {
             position: 'left',
             label: '天文台指南📚',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'regulationsSidebar',
+            position: 'left',
+            label: '规章制度📜',
+          },
           {to: '/about', label: '关于我们', position: 'left'},
 //          {to: '/blog', label: '观测记录', position: 'left'},
           {
@@ -146,6 +152,23 @@ const config = {
               {
                 label: 'N.I.N.A. 文档',
                 to: '/docs/NINA',
+              },
+            ],
+          },
+          {
+            title: '规章制度',
+            items: [
+              // {
+                // label: '协会章程',
+                // to: '/docs/regulations/charter',
+              // },
+              {
+                label: '设备管理办法（试行）',
+                to: '/docs/regulations/equipment-management-measures',
+              },
+              {
+                label: '天文设备操作权限考核标准',
+                to: '/docs/regulations/permission-assessment',
               },
             ],
           },

@@ -185,6 +185,13 @@ const sidebars = {
     },
   ],
 
+  regulationsSidebar: [
+    { type: 'doc', id: 'regulations/index', label: '总览' },
+    // 'regulations/charter',
+    'regulations/equipment-management-measures',
+    'regulations/permission-assessment',
+  ],
+
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
