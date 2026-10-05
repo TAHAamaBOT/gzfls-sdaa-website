@@ -17,7 +17,7 @@ keywords: [规章制度, 协会章程, 设备管理办法, 操作权限考核, �
 | 文件 | 状态 | 说明 |
 | :--- | :--- | :--- |
 | [设备管理办法（试行）](/docs/regulations/equipment-management-measures) | 🟢 有效 | 设备分类、操作权限、使用与维护流程、违规处理 |
-| [天文设备操作权限考核标准公示](/docs/regulations/permission-assessment) | 🟢 有效 | A / B / C 级操作权限的考核标准 |
+| [天文设备操作权限考核标准](/docs/regulations/permission-assessment) | 🟢 有效 | A / B / C 级操作权限的考核标准 |
 
 :::info[关于效力]
 
