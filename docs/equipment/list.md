@@ -12,7 +12,7 @@ keywords: [天文设备, 望远镜, RC14, 赤道仪, 冷冻相机, 天文台, �
 
 :::warning[规章制度]
 
-请阅读并熟悉[设备管理办法](\docs\regulations\equipment-management-measures)和[设备使用通用规则](\docs\equipment\guide\common-rules)
+请阅读并熟悉[设备管理办法](/docs/regulations/equipment-management-measures)和[设备使用通用规则](/docs/equipment/guide/common-rules)
 
 :::
 
