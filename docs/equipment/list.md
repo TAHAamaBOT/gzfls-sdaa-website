@@ -8,7 +8,7 @@ keywords: [天文设备, 望远镜, RC14, 赤道仪, 冷冻相机, 天文台, �
 
 本页面为**广州外国语学校天文台**核心观测设备清单及详细参数，用于天文观测、天体摄影与科普教学。文中若有标注如<sup>[1](#)</sup>角标的，说明该内容存疑或有特殊说明，请注意确认。
 
-本清单仅供天文台内部参考，不构成对实际持有设备数量、种类及状态的确认或承诺，亦不得作为财务统计或资产盘点依据。清单可能存在遗漏、滞后或误差，请以实物为准。设备盘点截止 **2026-08-22**，仅供参考，统计可能出现误差
+本清单仅供天文台内部参考，不构成对实际持有设备数量、种类及状态的确认或承诺，亦不得作为财务统计或资产盘点依据。清单可能存在遗漏、滞后或误差，请以实际存量为准。本清单最后更新于 **2026年10月6日**。
 
 :::warning[规章制度]
 
@@ -188,6 +188,21 @@ keywords: [天文设备, 望远镜, RC14, 赤道仪, 冷冻相机, 天文台, �
 | 电源要求 | 12 VDC（8节AA电池，不含） |
 | 校准程序 | SkyAlign、自动二星校准、一星校准、二星校准、太阳系校准 |
 | 随附物品 | 光学镜筒、单叉臂支架与三脚架、附件盘、NexStar+手控器、20mm与9mm目镜、StarPointer红点寻星镜、天顶镜 |
+
+### SKY ROVER 72 GPA
+
+**存量：1 台 分类：II**
+
+![72GPA](./images/72GPA.webp)
+
+| 参数     | 规格              |
+| :------- | :---------------- |
+| 光学系统 | 复消色差折射式    |
+| 口径     | 72 mm（3.1 英寸） |
+| 焦距     | 432 mm            |
+| 焦比     | f/6               |
+| 瑞利判据 | 1.9 角秒          |
+| 极限星等 | 11.5              |
 
 ### 🧰Celestron Deluxe 80EQ
 
@@ -588,47 +603,53 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 :::
 
-| 名称 | 规格 | 存量 | 备注 | 分类 | 图片 |
+| 名称 | 规格 | 存量 | 分类 | 备注 | 图片 |
 |:---|:---|:---|:---|:---|----|
-| Celestron Ultra Wide 超广角目镜组 | 6mm 9mm 15mm 20mm<br />表观视场 66° | 6mm×6、9mm×6、15mm×7、20mm×6 | | II | ![Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece](./images/Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece.jpg) |
-| 天虎光学1.25英寸赫歇尔太阳滤镜 | | 4 个 | | II   | ![1.25英寸赫歇尔太阳滤镜](./images/1.25英寸赫歇尔太阳滤镜.webp) |
-| ZWO ASIAIR Plus | 256G | 3 个 | | II | ![ASIAIRPlus](./images/ASIAIRPlus.webp)                      |
-| 小米 Redmi Note 14 Pro+（手机） | | 3 台 | 设备控制与拍摄 | II | |
-| ZWO CAA | | 1 个 | 主镜使用 | III | ![ZWOCAA](./images/ZWOCAA.webp) |
-| ZWO EFW | | 1 个 | 主镜使用 | III | ![ZWOEFW](./images/ZWOEFW.jpg) |
-| ZWO EFW mini | | 1 个 | | II | ![EFWmini](./images/EFWmini.jpg) |
-| ZWO OAG | | 2 个 |  | II | ![ZWOOAG](./images/ZWOOAG.webp) |
-| ZWO OAG-L | | 1 个 | 主镜使用 | III | ![ZWOOAG-L](./images/ZWOOAG-L.webp) |
-| ZWO LRGB | 1.25英寸 | 1 套 | | II | ![ZWOLRGB](./images/ZWOLRGB.webp) |
-| ZWO IRCut | 1.25英寸 | 3 个 | | II | ![ZWOIRCUT](./images/ZWOIRCUT.webp) |
-| BVR 滤镜 | 2英寸 | 1 套 | 主镜使用 | III | |
-| 天虎平场镜 | 1x（for 130APO） | 1 个 | 主镜使用 | III | |
-| ZWO SHO | 2英寸 | 1 套 | 主镜使用 | III | ![ZWOSHO](./images/ZWOSHO.jpg) |
-| 2047双速调焦座 | | 1 套 | 主镜使用 | III | ![2047](./images/2047.webp) |
-| 墨空Oasis Focuser Rose 二代电动调焦器 | | 1 套 | 主镜使用 | III | ![img](https://www.astroasis.com/data/upload/image/20240908/1725803998533920.jpg) |
-| 星特朗 10mm 非球面目镜 | 1.25英寸 | 2 个 | | I | |
-| 星特朗 23mm 非球面目镜 | 1.25英寸 | 1 个 | | I | |
-| 星特朗两倍金属增倍镜 | 1.25英寸 | 1 个 | | I | |
-| 星特朗 20mm 目镜 | | 4 个 | | I | |
-| 星特朗 10mm 目镜 | | 2 个 | | I | |
-| BOSMA 20mm 目镜 | | 1 个 | | I | |
-| Celestron 9mm 目镜 | | 1 个 | | I | |
-| Celestron 20mm 目镜 | | 1 个 | | I | |
-| Celestron OMNI 12mm 目镜 | 50° | 1 个 | | II | ![omni12mm](./images/omni12mm.webp) |
-| 大观 70° 20mm 广角目镜 | | 1 个 | | II | ![maxvision20mm](./images/maxvision20mm.webp) |
-| 星特朗天顶镜 | 1.25英寸 | 4 个 | | I | |
-| ZWO FS-II | | 3 个 | | I | ![ZWOFS-II](./images/ZWOFS-II.webp) |
+| Celestron Ultra Wide 超广角目镜组 | 6mm6个、9mm6个、15mm7个、20mm6个<br />表观视场 66° | 共25个 | II | | ![Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece](./images/Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece.jpg) |
+| Celestron OMNI 12mm 目镜 | 50° | 1 个 | II | | ![omni12mm](./images/omni12mm.webp) |
+| 大观 70° 20mm 广角目镜 | | 1 个 | II | | ![maxvision20mm](./images/maxvision20mm.webp) |
+| 星特朗 10mm 非球面目镜 | 1.25英寸 | 2 个 | I | | |
+| 星特朗 23mm 非球面目镜 | 1.25英寸 | 1 个 | I | | |
+| 天虎光学1.25英寸赫歇尔太阳滤镜 | | 4 个 | II   | | ![1.25英寸赫歇尔太阳滤镜](./images/1.25英寸赫歇尔太阳滤镜.webp) |
+| ZWO ASIAIR Plus | 256G | 3 个 | II | | ![ASIAIRPlus](./images/ASIAIRPlus.webp)                      |
+| ZWO EAFN |  | 1个 | II | | ![ZWOEAFN](./images/ZWOEAFN.webp) |
+| ZWO EFW mini | | 1 个 | II | | ![EFWmini](./images/EFWmini.jpg) |
+| ZWO OAG | | 2 个 | II |  | ![ZWOOAG](./images/ZWOOAG.webp) |
+| ZWO LRGB | 1.25英寸 | 1 套 | II | | ![ZWOLRGB](./images/ZWOLRGB.webp) |
+| ZWO IRCut | 1.25英寸 | 3 个 | II | | ![ZWOIRCUT](./images/ZWOIRCUT.webp) |
+| 8SE巴德膜 | 8英寸 | 1个 | II | | ![AstroSolar](./images/AstroSolar.webp) |
+| SKY ROVER 72GPA平场镜 | 1x | 1个 | II | | ![72GPAFlatter](./images/72GPAFlatter.webp) |
+| ZWO EFW | 2英寸 | 1 个 | III | 主镜使用 | ![ZWOEFW](./images/ZWOEFW.jpg) |
+| ZWO OAG-L | | 1 个 | III | 主镜使用 | ![ZWOOAG-L](./images/ZWOOAG-L.webp) |
+| ZWO CAA | | 1 个 | III | 主镜使用 | ![ZWOCAA](./images/ZWOCAA.webp) |
+| BVR 滤镜 | 2英寸 | 1 套 | III | 主镜使用 | |
+| 天虎平场镜 | 1x（for 130APO） | 1 个 | III | 主镜使用 | |
+| ZWO SHO | 2英寸 | 1 套 | III | 主镜使用 | ![ZWOSHO](./images/ZWOSHO.jpg) |
+| 2047双速调焦座 | | 1 套 | III | 主镜使用 | ![2047](./images/2047.webp) |
+| 墨空Oasis Focuser Rose 二代电动调焦器 | | 1 套 | III | 主镜使用 | ![img](https://www.astroasis.com/data/upload/image/20240908/1725803998533920.jpg) |
+| 星特朗两倍金属增倍镜 | 1.25英寸 | 1 个 | I | | |
+| 星特朗 20mm 目镜 | | 4 个 | I | | |
+| 星特朗 10mm 目镜 | | 2 个 | I | | |
+| BOSMA 20mm 目镜 | | 1 个 | I | | |
+| Celestron 9mm 目镜 | | 1 个 | I | | |
+| Celestron 20mm 目镜 | | 1 个 | I | | |
+| 星特朗天顶镜 | 1.25英寸 | 4 个 | I | | |
+| ZWO FS-II | | 3 个 | I | | ![ZWOFS-II](./images/ZWOFS-II.webp) |
+| 星缘鱼骨板 | YGM200mm | 1个 | I | | ![YGM200](./images/YGM200.webp) |
+| HEQ5 EQMOD数据线 | | 1条 | II | | ![EQMOD](./images/EQMOD.webp) |
+| 星缘除雾带 | XY-430、XY-930各一条 | 2条 | II | | ![Anti-Fog](./images/Anti-Fog.webp) |
 
 ---
 
 ## 🔦 观测辅助器材
 
-| 名称 | 规格 | 存量 | 备注 | 分类 | 图片 |
+| 名称 | 规格 | 存量 | 分类 | 备注 | 图片 |
 |:---|:---|:---|:---|:---|----|
-| LED 头灯 | | 20 个 | | I | |
-| 绿色指星笔 | | 6 支 | | I | |
-| 蔡司酒精镜片清洁片 | | 16 片 | | II | |
-| 12V 移动户外电源 | 300W | 4 个 | | II | |
+| LED 头灯 | | 20 个 | I | | |
+| 绿色指星笔 | | 6 支 | I | | |
+| 蔡司酒精镜片清洁片 | | 16 片 | II | | |
+| 12V 移动户外电源 | 300W | 4 个 | II | | |
+| 小米 Redmi Note 14 Pro+（手机） |  | 3 台 | II   |  | |
 
 ---
 
