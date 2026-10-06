@@ -9,7 +9,7 @@ keywords: [操作权限考核, 考核标准, A级, B级, C级, 译星者, 天文
 
 :::info
 
-本页公布本会天文设备操作权限的考核标准，依据[《设备管理办法（试行）》第六条](/docs/regulations/equipment-management-measures#chapter-2)制定并根据需要适时更新。
+本页公布本会天文设备操作权限的考核标准，依据[《设备管理办法（试行）》第六条](/docs/regulations/equipment-management-measures#第二章操作权限等级与考核)制定并根据需要适时更新。
 
 最后更新：2026年10月5日
 

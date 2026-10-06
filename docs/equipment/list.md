@@ -8,11 +8,11 @@ keywords: [天文设备, 望远镜, RC14, 赤道仪, 冷冻相机, 天文台, �
 
 本页面为**广州外国语学校天文台**核心观测设备清单及详细参数，用于天文观测、天体摄影与科普教学。文中若有标注如<sup>[1](#)</sup>角标的，说明该内容存疑或有特殊说明，请注意确认。
 
-本清单仅供天文台内部参考，不构成对实际持有设备数量、种类及状态的确认或承诺，亦不得作为财务统计或资产盘点依据。清单可能存在遗漏、滞后或误差，请以实物为准。
+本清单仅供天文台内部参考，不构成对实际持有设备数量、种类及状态的确认或承诺，亦不得作为财务统计或资产盘点依据。清单可能存在遗漏、滞后或误差，请以实物为准。设备盘点截止 **2026-08-22**，仅供参考，统计可能出现误差
 
-:::info
+:::warning[规章制度]
 
-设备盘点截止 **2026-08-22**，仅供参考，统计可能出现误差
+请阅读并熟悉[设备管理办法](\docs\regulations\equipment-management-measures)和[设备使用通用规则](\docs\equipment\guide\common-rules)
 
 :::
 
@@ -458,7 +458,7 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 **存量：1 台 分类：III**
 
-![ASI6200MM_Pro](./images/ASI6200MM_Pro.jpg)
+![6200MMPro](./images/6200MMPro.webp)
 
 :::info
 
@@ -484,7 +484,7 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 **存量：1 台 分类：II**
 
-![533MMPro](./images/533MMPro.jpg)
+![533MMPro](./images/533MMPro.webp)
 
 :::info
 
@@ -510,7 +510,7 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 **存量：3 台 分类：II**
 
-![ASI585MC](./images/ASI585MC.jpg)
+![585MC](./images/585MC.webp)
 
 :::info
 
@@ -558,7 +558,7 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 
 **存量：2 台 分类：II**
 
-![ASI220MM](./images/ASI220MM.png)
+![220MMmini](./images/220MMmini.webp)
 
 :::info
 
@@ -591,20 +591,20 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 | 名称 | 规格 | 存量 | 备注 | 分类 | 图片 |
 |:---|:---|:---|:---|:---|----|
 | Celestron Ultra Wide 超广角目镜组 | 6mm 9mm 15mm 20mm<br />表观视场 66° | 6mm×6、9mm×6、15mm×7、20mm×6 | | II | ![Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece](./images/Celestron_66_Degrees_Ultra_Wide_Angle_Eyepiece.jpg) |
-| 天虎光学1.25英寸赫歇尔太阳滤镜 | | 4 个 | | II | ![1.25英寸赫歇尔太阳滤镜](./images/1.25英寸赫歇尔太阳滤镜.png) |
-| ZWO ASIAIR Plus | 256G | 3 个 | | II | ![ASIAIR](./images/ASIAIR.png) |
+| 天虎光学1.25英寸赫歇尔太阳滤镜 | | 4 个 | | II   | ![1.25英寸赫歇尔太阳滤镜](./images/1.25英寸赫歇尔太阳滤镜.webp) |
+| ZWO ASIAIR Plus | 256G | 3 个 | | II | ![ASIAIRPlus](./images/ASIAIRPlus.webp)                      |
 | 小米 Redmi Note 14 Pro+（手机） | | 3 台 | 设备控制与拍摄 | II | |
-| ZWO CAA | | 1 个 | 主镜使用 | III | |
-| ZWO EFW | | 1 个 | 主镜使用 | III | |
-| ZWO EFW mini | | 1 个 | | II | |
-| ZWO OAG | | 2 个 |  | II | |
-| ZWO OAG-L | | 1 个 | 主镜使用 | III | |
-| ZWO LRGB | 1.25英寸 | 1 套 | | II | |
-| ZWO IRCut | 1.25英寸 | 3 个 | | II | |
+| ZWO CAA | | 1 个 | 主镜使用 | III | ![ZWOCAA](./images/ZWOCAA.webp) |
+| ZWO EFW | | 1 个 | 主镜使用 | III | ![ZWOEFW](./images/ZWOEFW.jpg) |
+| ZWO EFW mini | | 1 个 | | II | ![EFWmini](./images/EFWmini.jpg) |
+| ZWO OAG | | 2 个 |  | II | ![ZWOOAG](./images/ZWOOAG.webp) |
+| ZWO OAG-L | | 1 个 | 主镜使用 | III | ![ZWOOAG-L](./images/ZWOOAG-L.webp) |
+| ZWO LRGB | 1.25英寸 | 1 套 | | II | ![ZWOLRGB](./images/ZWOLRGB.webp) |
+| ZWO IRCut | 1.25英寸 | 3 个 | | II | ![ZWOIRCUT](./images/ZWOIRCUT.webp) |
 | BVR 滤镜 | 2英寸 | 1 套 | 主镜使用 | III | |
 | 天虎平场镜 | 1x（for 130APO） | 1 个 | 主镜使用 | III | |
-| ZWO SHO | 2英寸 | 1 套 | 主镜使用 | III | |
-| 2047双速调焦座 | | 1 套 | 主镜使用 | III | |
+| ZWO SHO | 2英寸 | 1 套 | 主镜使用 | III | ![ZWOSHO](./images/ZWOSHO.jpg) |
+| 2047双速调焦座 | | 1 套 | 主镜使用 | III | ![2047](./images/2047.webp) |
 | 墨空Oasis Focuser Rose 二代电动调焦器 | | 1 套 | 主镜使用 | III | ![img](https://www.astroasis.com/data/upload/image/20240908/1725803998533920.jpg) |
 | 星特朗 10mm 非球面目镜 | 1.25英寸 | 2 个 | | I | |
 | 星特朗 23mm 非球面目镜 | 1.25英寸 | 1 个 | | I | |
@@ -614,10 +614,10 @@ Seestar S50或许是本栏最特殊的存在。以下列出部分参数：
 | BOSMA 20mm 目镜 | | 1 个 | | I | |
 | Celestron 9mm 目镜 | | 1 个 | | I | |
 | Celestron 20mm 目镜 | | 1 个 | | I | |
-| Celestron OMNI 12mm 目镜 | 50° | 1 个 | | II | |
-| 大观 70° 20mm 广角目镜 | | 1 个 | | II | |
-| 天顶镜 | 1.25英寸 | 4 个 | | I | |
-| ZWO FS-II | | 3 个 | | I | |
+| Celestron OMNI 12mm 目镜 | 50° | 1 个 | | II | ![omni12mm](./images/omni12mm.webp) |
+| 大观 70° 20mm 广角目镜 | | 1 个 | | II | ![maxvision20mm](./images/maxvision20mm.webp) |
+| 星特朗天顶镜 | 1.25英寸 | 4 个 | | I | |
+| ZWO FS-II | | 3 个 | | I | ![ZWOFS-II](./images/ZWOFS-II.webp) |
 
 ---
 
